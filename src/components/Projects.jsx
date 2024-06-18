@@ -25,9 +25,7 @@ const Projects = () => {
                             {tech}
                         </span>
                     ))}
-                </div>
-
-                
+                </div>   
             </div>
         ))}</div>
     </div>
